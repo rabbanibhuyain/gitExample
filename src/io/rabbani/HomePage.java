@@ -13,4 +13,5 @@ public class HomePage {
     public void validateFooter(){
         System.out.println("Validating Footer");
     }
+
 }
