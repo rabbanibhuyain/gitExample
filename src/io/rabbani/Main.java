@@ -6,7 +6,7 @@ public class Main {
 
         System.out.println("This is git testing");
         System.out.println("Edited by Tuhin");
-        System.out.println("This is by Tanvir");
+        System.out.println("This change Tuhin Mofizur!");
     }
 
     public void TestCase01(){
