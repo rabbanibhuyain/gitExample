@@ -15,11 +15,8 @@ public class Main {
         System.out.println("TestCase02");
     }
 
-    public void Eoordkfajdkjf(){]
-    double
-    dkjfakldj
-            kdjfakjkdsla
-                    kjdjkfakldjlka
+    public void myErrorHandling(){
+        System.out.println("Feature added!");
     }
 
     public void TestCase03(){
