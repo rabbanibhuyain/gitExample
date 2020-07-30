@@ -15,6 +15,13 @@ public class Main {
         System.out.println("TestCase02");
     }
 
+    public void Eoordkfajdkjf(){]
+    double
+    dkjfakldj
+            kdjfakjkdsla
+                    kjdjkfakldjlka
+    }
+
     public void TestCase03(){
         System.out.println("This is a new update for Ahmed Shamim");
         System.out.println("I am pushing a new code Shamim");
