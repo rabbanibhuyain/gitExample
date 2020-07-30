@@ -3,10 +3,7 @@ package io.rabbani;
 public class Main {
 
     public static void main(String[] args) {
-
-        System.out.println("This is git testing");
-        System.out.println("Edited by Tuhin");
-        System.out.println("This change Tuhin Mofizur!");
+        System.out.println("Today is 29th July 2020");
     }
 
     public void TestCase01(){
