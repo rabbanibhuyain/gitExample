@@ -7,6 +7,7 @@ public class Main {
         System.out.println("Second change!");
 
         System.out.println("Change happed in master while working on your branch!!!");
+        System.out.println("Added directly in repo")
     }
 
     public void TestCase01(){
