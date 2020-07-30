@@ -4,6 +4,7 @@ public class Main {
 
     public static void main(String[] args) {
         System.out.println("Today is 29th July 2020");
+        System.out.println("Second change!");
     }
 
     public void TestCase01(){
